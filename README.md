@@ -2,9 +2,9 @@
  
 This repository contains the working files for an attempt to build a collection of GIS data related to the spatial history of Wuhan city. 
 
-1. Geographical locations related to Wuhan historical sites today.
+1. (In progress) Geographical locations related to Wuhan historical sites today.
 2. (Not begun yet) Georectified historical maps of the city
-3. Geocoded locations from the historical maps for important city locations whether extant or not. 
+3. (Not begun yet) Geocoded locations from the historical maps for important city locations whether extant or not. 
 
 ## Sources
 
