@@ -6,11 +6,12 @@
 
 # TODO
 
-* Finish digitizing features from the 1927 layer
+* M: Finish digitizing features from the 1927 layer
 * Put all the 1927 related layers together into one single Geopackage
-* Georeference the 1939 Japanese map of Hankou
-* Georeference the French concession map
+* M: Georeference the 1939 Japanese map of Hankou
+* M: Georeference the French concession map
 * Other concession maps?
 * digitize features from these other maps
 * Add more extant historic buildings to the buildings layer
+
 
